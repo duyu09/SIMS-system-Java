@@ -16,3 +16,9 @@ Duyu-SIMS学生信息管理系统软件 著作权声明：
   Copyright Owner's Authorization: Shandong ShiChuang Software Training Institute of Ambo Education Group has the right to consult, modify, and release part or all of the source code of this software product on the premise of informing the right holder for the purpose of the Java course training of Qilu University of Technology Grade 2021.
   
   版权方授权：安博教育集团 山东师创软件实训学院 以齐鲁工业大学21级Java课程实训为目的的 查阅，修改，并在告知权利人的前提下发布本软件产品的部分或全部源代码的权利。
+
+
+
+2022年07月03日 更新本声明内容：
+  
+  由于齐鲁工业大学2021级软件工程班大一校企合作Java实训课程已全面结束，软件版权方于2022年06月13日14时停止维护租用的阿里云ECS服务器(学生信息数据库服务器)，其IP地址47.93.121.147已于2022年06月15日0时相应失效。请后续使用该软件的开发人员或普通用户修改本软件源代码中有关服务器地址等的内容，并按需自行部署数据库。
