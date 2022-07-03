@@ -25,3 +25,7 @@ As the Java practical training course of school-enterprise cooperation for the S
 2022年07月03日 更新本声明内容：
   
   由于齐鲁工业大学2021级软件工程班大一校企合作Java实训课程已全面结束，软件版权方于2022年06月13日14时起停止维护租用的阿里云ECS服务器(学生信息数据库服务器)，其IP地址47.93.121.147已于2022年06月15日0时相应失效。请后续使用该软件的开发人员或普通用户修改本软件源代码中有关服务器地址等的内容，并按需自行部署MySql数据库。
+
+
+## Statistics of Visiting Numbers
+<div>Number of Total Visits: &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Duyu09_AutoCommand" /></div> 
