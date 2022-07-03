@@ -28,4 +28,4 @@ As the Java practical training course of school-enterprise cooperation for the S
 
 
 ## Statistics of Visiting Numbers
-<div>Number of Total Visits: &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Duyu09_AutoCommand" /></div> 
+<div>Number of Total Visits: &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Duyu09_SIMS-system-Java" /></div> 
