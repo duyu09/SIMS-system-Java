@@ -18,6 +18,9 @@ Duyu-SIMS学生信息管理系统软件 著作权声明：
   版权方授权：安博教育集团 山东师创软件实训学院 以齐鲁工业大学21级Java课程实训为目的的 查阅，修改，并在告知权利人的前提下发布本软件产品的部分或全部源代码的权利。
 
 
+## Updated on July 3rd, 2022
+
+As the Java practical training course of school-enterprise cooperation for the Software Engineering class of Qilu University of Technology grade 2021 has been fully completed, the software copyright owner will stop maintaining the rented Aliyun ECS server (student information database server) from 14:00 on June 13, 2022. Its IP address 47.93.121.147 has been invalid at 0 o 'clock on June 15, 2022. You are advised to modify the server address in the source code of the software and deploy the MySql database as required.
 
 2022年07月03日 更新本声明内容：
   
