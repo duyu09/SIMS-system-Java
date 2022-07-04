@@ -1,4 +1,4 @@
-# SIMS-system-Java
+# SIMS Software System (Java version)
 Student Information Management System (Java Version)
 
 LICENSE OF DUYU SIMS SOFTWARE
@@ -20,7 +20,7 @@ Duyu-SIMS学生信息管理系统软件 著作权声明：
 
 ## Updated on July 3rd, 2022
 
-As the Java practical training course of school-enterprise cooperation for the Software Engineering class of Qilu University of Technology grade 2021 has been fully completed, the software copyright owner will stop maintaining the rented Aliyun ECS server (student information database server) from 14:00 on June 13, 2022. Its IP address 47.93.121.147 has been invalid at 0 o 'clock on June 15, 2022. You are advised to modify the server address in the source code of the software and deploy the MySql database as required.
+As the Java practical training course of school-enterprise cooperation for the Software Engineering class of Qilu University of Technology grade 2021 has been fully completed, the software copyright owner will stop maintaining the rented Aliyun ECS server (student information database server) from 14:00 on June 13, 2022. Its IP address 47.93.121.147 has been invalid at 0:00 on June 15, 2022. You are advised to modify the server address in the source code of the software and deploy the MySql database as required.
 
 2022年07月03日 更新本声明内容：
   
