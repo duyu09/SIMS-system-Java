@@ -23,6 +23,8 @@
 
   - 著作权所有人授权：安博教育集团 山东师创软件实训学院 以齐鲁工业大学2022年(2021级)Java课程实训为目的的 查阅，修改，并在告知权利所有人的前提下发布本软件产品的部分或全部源代码的权利。
 
+<img src="https://github.com/duyu09/SIMS-system-Java/assets/92843163/4cde799a-bde6-4a1e-b2e1-833e8d51aacc" style="width:25%;">
+
 <img src="https://github.com/duyu09/SIMS-system-Java/assets/92843163/32ce26b2-fe56-4591-8dfb-d84b60797390" style="width:25%;">
 
 ## 软件更新日志
