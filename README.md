@@ -23,6 +23,8 @@
 
   - 著作权所有人授权：安博教育集团 山东师创软件实训学院 以齐鲁工业大学2022年(2021级)Java课程实训为目的的 查阅，修改，并在告知权利所有人的前提下发布本软件产品的部分或全部源代码的权利。
 
+<img src="https://github.com/duyu09/SIMS-system-Java/assets/92843163/32ce26b2-fe56-4591-8dfb-d84b60797390" style="width:25%;">
+
 ## 软件更新日志
 
 ### Updated on July 3rd, 2022
@@ -46,6 +48,8 @@
   - Copyright &copy; 2022~2023 Duyu, ZHANG Dongxu, JIANG Wei, LV Jizhang, Faculty of Computer Science and Technology, Qilu University of Technology.
   
   - 著作权所有者(Duyu, 齐鲁工业大学 计算机科学与技术学部 杜宇)授权：齐鲁工业大学 计算机科学与技术学部 张东旭，蒋伟，吕基璋 将本软件产品的所有资料(源代码，图片，开发文档等)用于2023年齐鲁工业大学计科系Java程序设计课程答辩，且软件界面中的著作权信息允许暂时不标注(不呈现)著作权所有者“杜宇”的相关信息。
+    
+  - 官方发行地址：https://github.com/duyu09/SIMS-system-Java/releases/tag/Duyu-SIMS-v2.0
 
 ## Statistics of Visiting Numbers
-<div>Number of Total Visits: &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Duyu09_SIMS-system-Java" /></div> 
+<div>Number of Total Visits: &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Duyu09_SIMS-system-Java" /></div>
