@@ -54,4 +54,8 @@
   - 官方发行地址：https://github.com/duyu09/SIMS-system-Java/releases/tag/Duyu-SIMS-v2.0
 
 ## Statistics of Visiting Numbers
-<div>Number of Total Visits: &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Duyu09_SIMS-system-Java" /></div>
+
+<div><b>Number of Total Visits (All of Duyu09's GitHub Projects): </b><br><img src="https://profile-counter.glitch.me/duyu09/count.svg" /></div> 
+
+<div><b>Number of Total Visits (SIMS-system-Java): </b><br><img src="https://profile-counter.glitch.me/duyu09-SIMS-system-Java/count.svg" /></div> 
+
